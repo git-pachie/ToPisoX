@@ -307,7 +307,7 @@
 		2B14D53E2132E2B800181629 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R3F22UC8DK;
 				INFOPLIST_FILE = ToPisoX/Info.plist;
@@ -325,7 +325,7 @@
 		2B14D53F2132E2B800181629 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = R3F22UC8DK;
 				INFOPLIST_FILE = ToPisoX/Info.plist;
